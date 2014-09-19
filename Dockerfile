@@ -1,5 +1,5 @@
 # dockerfile
-FROM fly0wing/docker-first
+FROM fly0wing/docker-centos
 MAINTAINER fly0wing <fly0wing@126.com>
 
 #install oracle java
