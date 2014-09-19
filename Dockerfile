@@ -2,7 +2,7 @@
 FROM fly0wing/docker-centos
 MAINTAINER fly0wing <fly0wing@126.com>
 
-#install oracle java
+# install oracle java
 RUN wget --no-cookies \
          --no-check-certificate \
          --header "Cookie: oraclelicense=accept-securebackup-cookie" \
